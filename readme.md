@@ -15,11 +15,11 @@ Used NLP(Natural Language Processing) determine weather given US Airline Sentime
 2. spilting test and train data
 3. On test data using **TfidfVectorizer**(which gives unqiue indexes to each word)
 4. Train model on **RandomForestClassifier** 
-    -4.1 predict accuracy 
-    -4.2 print score
+    - predict accuracy 
+     - print score
 5. Train model again on **SVC**
-    -5.1 predict accuracy
-    -5.2 print score
+    - predict accuracy
+     - print score
 6. Finally we use our above trained feautres to go through **KNeighborsClassifier**
 7. The final prediction gives us the result in three category 
     ** NEGATIVE **, **POSITIVE**, **NEUTRAL**
