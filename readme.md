@@ -1,11 +1,11 @@
-#Twitter-sentiment-anaylsis 
+# Twitter-sentiment-anaylsis 
 
-**using the following classifier :**
+# using the following classifier :
 -Random Forest Classifier 
 -KNeighborsClassifier
 -Svc( Support vector classifier )
 
-Method Used in the process:
+# Method Used in the process:
 1. Fetching data from **.CSV** file.
 2. spilting test and train data
 3. On test data using **TfidfVectorizer**(which gives unqiue indexes to each word)
