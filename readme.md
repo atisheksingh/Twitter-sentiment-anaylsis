@@ -1,11 +1,14 @@
 # Twitter-sentiment-anaylsis 
+[1.2]: http://i.imgur.com/wWzX9uB.png 
 Used NLP(Natural Language Processing) determine weather given US Airline Sentiment Dataset, which contains data for over 14000 tweets is positive, negative or neutral.
 
 
 # Using the following classifier :
-1.Random Forest Classifier 
-2.KNeighborsClassifier
-3.Svc( Support vector classifier )
+1. Random Forest Classifier
+2. KNeighborsClassifier
+3. Svc( Support vector classifier )
+
+
 
 # Method Used in the process:
 1. Fetching data from **.CSV** file.
